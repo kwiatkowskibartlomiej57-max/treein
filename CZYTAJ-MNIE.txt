@@ -1,0 +1,10 @@
+TRAINING - instalacja na iPhonie (PWA)
+
+1. Wrzuć zawartość tego folderu (same pliki, bez folderu) do głównego katalogu repozytorium na GitHubie, np. "trenigi", i włącz GitHub Pages.
+2. Na iPhonie otwórz adres w SAFARI -> Udostępnij -> "Dodaj do ekranu początkowego".
+3. Zawsze otwieraj aplikację z ikony na ekranie (nie z karty Safari). Wtedy dane są trwalsze.
+4. Zakładka Kopia -> "Zapisz kopię" -> Zapisz w Plikach (iCloud Drive). Rób to co tydzień-dwa.
+
+Plan ćwiczeń zmieniasz w aplikacji: zakładka Plan. W index.html (sekcja PLAN DOMYŚLNY) jest plan startowy dla nowych osób.
+
+UWAGA: nie wrzucaj do tego repozytorium innej aplikacji (np. Zakładki). Pliki index.html, sw.js i manifest.webmanifest mają te same nazwy i nadpiszą Training. Każda aplikacja potrzebuje własnego repozytorium.
