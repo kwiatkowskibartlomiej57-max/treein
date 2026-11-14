@@ -8,3 +8,12 @@ TRAINING - instalacja na iPhonie (PWA)
 Plan ćwiczeń zmieniasz w aplikacji: zakładka Plan. W index.html (sekcja PLAN DOMYŚLNY) jest plan startowy dla nowych osób.
 
 UWAGA: nie wrzucaj do tego repozytorium innej aplikacji (np. Zakładki). Pliki index.html, sw.js i manifest.webmanifest mają te same nazwy i nadpiszą Training. Każda aplikacja potrzebuje własnego repozytorium.
+
+NOWOŚCI (wersja 5)
+- Plecy 0–10 przed treningiem: przy bólu 3+ aplikacja zdejmuje serie do upadku, przy 5+ obniża cele o ~20% i przypomina o objawach alarmowych. Rosnący ból = ostrzeżenie na ekranie Trening.
+- RPE sesji (1–10) na końcu treningu: razem z czasem daje obciążenie tygodnia i ostrzega przed nagłym skokiem (>30%).
+- Partie mięśniowe: serie na tydzień na klatkę, plecy, nogi itd. w Postępach i w Planie (żółty = za mało, niebieski = dużo). Partie przypisujesz w Plan -> ćwiczenie.
+- Stagnacja: ćwiczenie bez poprawy od 3 treningów dostaje oznaczenie i wskazówki.
+- Deload: po ~7 tygodniach z rzędu albo przy stagnacji w 3+ ćwiczeniach aplikacja proponuje lżejszy tydzień (mniej serii, ~85% ciężaru).
+- Przycisk „Wpisz X kg” wpisuje ciężar z celu jednym stuknięciem.
+- Podsumowanie po treningu: czas, serie, tonaż i porównanie z poprzednim razem.
